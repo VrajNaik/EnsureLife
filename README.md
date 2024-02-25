@@ -10,7 +10,7 @@ Insurance Management with Premium Prediction is a web application developed usin
 - **Search Tools**: Visitors can access insurance awareness articles, guidelines, and illustrations through search tools.
 - **Easy Access**: The system provides instant access to insurance records and improves productivity for insurance organizations.
 
-## Installation
+## Installation Steps
 
 1. **Clone the repository**:
    ```bash
