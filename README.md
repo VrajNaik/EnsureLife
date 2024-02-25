@@ -1,6 +1,4 @@
-"#Vraj Jatin Naik"
-
-# Insurance Management with Premium Prediction
+# EnsureLife - Insurance Management with Premium Prediction
 
 Insurance Management with Premium Prediction is a web application developed using Django framework. It serves as an online platform for managing insurance policies, customer details, and company information. The system also incorporates machine learning for premium prediction, enabling the estimation of insurance premiums based on various factors.
 
